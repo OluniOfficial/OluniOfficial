@@ -23,10 +23,6 @@ public class Oluni {
         public List<String> getLanguages() {
             return languages;
         }
-
-        public int getAge() {
-            return age;
-        }
     }
 
     public static class Coding {
