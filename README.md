@@ -27,7 +27,7 @@ public class Oluni {
 
     public static class Coding {
         private final Map<String, List<String>> languages = Map.of(
-                "coding", List.of("Python", "Java", "Lua),
+                "coding", List.of("Python", "Java", "Lua"),
                 "learning", List.of("HTML", "CSS")
         );
 
